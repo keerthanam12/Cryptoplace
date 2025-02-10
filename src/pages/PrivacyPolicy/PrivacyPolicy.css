@@ -1,0 +1,33 @@
+.privacy-container {
+    text-align: center;
+    padding: 60px 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+.privacy-title {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.privacypolicy-image {
+    width: 100%;
+    max-width: 500px;
+    margin-bottom: 90px;
+}
+
+.privacy-section {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.privacy-section h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.privacy-section p {
+    font-size: 18px;
+    color: #555;
+    line-height: 1.6;
+}
