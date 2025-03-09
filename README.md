@@ -13,7 +13,7 @@ Cryptoplace is a modern Cryptocurrency Price Tracking Application that provides 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![VITEJS](https://img.shields.io/badge/Vite.js-35495E?style=for-the-badge&logo=vite.js&logoColor=4FC08D)
+![VITEJS](https://img.shields.io/badge/Vite-35495E?style=for-the-badge&logo=vite&logoColor=4FC08D)
 
 **Backend:**
 
